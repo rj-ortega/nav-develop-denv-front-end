@@ -13,4 +13,4 @@ Team:
 - [Luke Menard](https://github.com/lukemenard)
 - [Jeremiah Tabb](https://github.com/jollyjerr)
 
-![](src/dvlp-dnvr-demo.gif)
+![](src/dvlp_dnvr_demo.gif)
